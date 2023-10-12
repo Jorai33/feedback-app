@@ -124,11 +124,6 @@ input:focus {
   margin-right: 30px;
 }
 
-.input-group button[type="submit"] {
-  min-width: 50px;
-  border-radius: 15px;
-}
-
 .feedback-stats {
   color: #fff;
   display: flex;
